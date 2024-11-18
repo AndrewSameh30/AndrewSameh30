@@ -1,12 +1,11 @@
 # 👋 Hi there, I'm [Andrew Kamel]!
 
-Welcome to my GitHub profile! I'm a passionate **Security Student** and **Developer** exploring the realms of **backend development**, **DevOps**, and **modern technologies**. Here, you'll find projects and experiments that reflect my curiosity and dedication to creating robust and innovative solutions.
+Welcome to my GitHub profile! I'm a passionate **Software Engineer** and **Developer** exploring the realms of **backend development**, **DevOps**, and **modern technologies**. Here, you'll find projects and experiments that reflect my curiosity and dedication to creating robust and innovative solutions.
 
 ---
 
 ## 🔭 Current Focus
 
-- 🔐 **Security**: Building secure systems and understanding the latest in cybersecurity.
 - 💻 **Backend Development**: Crafting reliable servers and APIs.
 - ⚙️ **DevOps**: Exploring CI/CD, cloud environments, and containerization.
 - 🛠️ **Node.js Projects**: Developing applications with MongoDB Atlas and session management.
@@ -17,7 +16,6 @@ Welcome to my GitHub profile! I'm a passionate **Security Student** and **Develo
 
 - Advanced backend techniques.
 - Best practices for secure coding.
-- Automating workflows in DevOps.
 
 ---
 
@@ -46,9 +44,8 @@ Welcome to my GitHub profile! I'm a passionate **Security Student** and **Develo
 
 ## 📫 Let's Connect
 - 🌐 [Portfolio Website](#)
-- 📧 [Email](mailto:your.email@example.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- 🐦 [Twitter](https://twitter.com/yourprofile)
+- 📧 [Email](mailto:andrew30.sameh@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/andrewkamel485)
 
 ---
 
@@ -62,6 +59,3 @@ Welcome to my GitHub profile! I'm a passionate **Security Student** and **Develo
 Feel free to explore my repositories, open issues, or contribute to my projects. Let's build something amazing together!
 
 ---
-
-### 📜 License
-This profile README is inspired by creativity and driven by passion. Feel free to use ideas, but remember to give credit where due!
