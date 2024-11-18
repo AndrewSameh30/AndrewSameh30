@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Andrew Kamel]!
+# 👋 Hi there, I'm Andrew Kamel!
 
 Welcome to my GitHub profile! I'm a passionate **Software Engineer** and **Developer** exploring the realms of **backend development**, **DevOps**, and **modern technologies**. Here, you'll find projects and experiments that reflect my curiosity and dedication to creating robust and innovative solutions.
 
