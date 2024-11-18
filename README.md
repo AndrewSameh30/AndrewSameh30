@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Andrew Kamel!
 
-Welcome to my GitHub profile! I'm a passionate **Software Engineer** and **Developer** exploring the realms of **backend development**, **DevOps**, and **modern technologies**. Here, you'll find projects and experiments that reflect my curiosity and dedication to creating robust and innovative solutions.
+Welcome to my GitHub profile! I'm a passionate and ambitious **Software Engineer** with a **BSc** degree in **Computer Science Engineering (CSE)** from the **German University in Cairo (GUC)**. Proficient in a variety of programming languages and frameworks including **Java**, **Python**, **ReactJS**, **NodeJS**, **SQL**, **Flutter** with hands-on experience through academic projects and internships. Here, you'll find projects and experiments that reflect my curiosity and dedication to creating robust and innovative solutions.
 
 ---
 
