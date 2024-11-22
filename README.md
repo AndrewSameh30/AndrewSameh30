@@ -1,116 +1,62 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Andrew Kamel - Software Engineer</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 0;
-            padding: 0;
-            background-color: #f4f4f9;
-            color: #333;
-        }
-        .container {
-            width: 80%;
-            margin: 0 auto;
-            padding: 20px;
-            background: #fff;
-            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
-            border-radius: 8px;
-        }
-        h1 {
-            text-align: center;
-            color: #0d46ad;
-        }
-        .highlight {
-            color: #0d46ad;
-            font-weight: bold;
-        }
-        .contact a {
-            color: #0d46ad;
-            text-decoration: none;
-            margin-right: 10px;
-        }
-        .skills, .about {
-            margin-top: 20px;
-        }
-        .skills ul, .tools ul {
-            display: flex;
-            flex-wrap: wrap;
-            list-style: none;
-            padding: 0;
-        }
-        .skills li, .tools li {
-            margin-right: 15px;
-            background: #e0f0ff;
-            padding: 8px 12px;
-            border-radius: 20px;
-            margin-bottom: 10px;
-        }
-        footer {
-            text-align: center;
-            margin-top: 20px;
-            padding: 10px;
-            background-color: #0d46ad;
-            color: #fff;
-            border-radius: 0 0 8px 8px;
-        }
-        footer a {
-            color: #fff;
-            text-decoration: none;
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <h1>Hi, I'm <span class="highlight">Andrew Kamel</span></h1>
-        <p>Passionate and ambitious Software Engineer with a <span class="highlight">BSc degree in Computer Science Engineering</span> (CSE) from the German University in Cairo (GUC). Proficient in various programming languages and frameworks, with a strong foundation in Cloud Computing, Networks, and DevOps. Seeking an entry-level <span class="highlight">(Backend, Frontend, Full-stack)</span> role to contribute to innovative projects.</p>
-        
-        <div class="contact">
-            <p>
-                📧 <a href="mailto:andrew30.sameh@gmail.com">andrew30.sameh@gmail.com</a>
-                | 📱 <a href="tel:+201207790053">+20 120 779 0053</a>
-                | 📄 <a href="https://drive.google.com/file/d/1hXCwraQK5KuF6bD0L9rhYfFaSjhfmdZC/view?usp=sharing" target="_blank">CV</a>
-                | 💼 <a href="https://www.linkedin.com/in/andrewkamel485/" target="_blank">LinkedIn</a>
-                | 🖥️ <a href="https://github.com/AndrewSameh30/" target="_blank">GitHub</a>
-            </p>
-        </div>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" height="40px">, I'm Andrew Kamel</h1>
+<span>
+<img src="https://media.giphy.com/media/hS3IR40sIwRl6zUyrQ/giphy.gif" width="20" height="20" align="left" >
+<img src="https://media.giphy.com/media/hS3IR40sIwRl6zUyrQ/giphy.gif" width="20" height="20" align="right" >
+</span>
 
-        <div class="about">
-            <h2>🚀 About Me</h2>
-            <ul>
-                <li>🎓 BSc in Computer Science and Engineering from the German University in Cairo (GUC).</li>
-                <li>🧠 Proficient in React, Angular, Flutter, CSS, Node.js, Spring Boot, Java, Python, JavaScript.</li>
-                <li>💾 Skilled in databases like MSSQL, MongoDB, and Firebase.</li>
-                <li>☁️ Passionate about Cloud Computing, Networks, and DevOps.</li>
-                <li>🎯 Seeking an entry-level role in Backend, Frontend, or Full-stack Development.</li>
-            </ul>
-        </div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=35&color=0D46AD&center=true&width=1000&height=61&lines=Software+Engineer;Full-Stack+Web+Developer;Mobile+Application+Developer;DevOps+Enthusiast;Fresh+Graduate)](https://github.com/AndrewSameh30)
 
-        <div class="skills">
-            <h2>🛠️ Skills</h2>
-            <ul>
-                <li>React</li>
-                <li>Angular</li>
-                <li>Flutter</li>
-                <li>CSS</li>
-                <li>Node.js</li>
-                <li>Spring Boot</li>
-                <li>Java</li>
-                <li>Python</li>
-                <li>JavaScript</li>
-                <li>MSSQL</li>
-                <li>MongoDB</li>
-                <li>Firebase</li>
-            </ul>
-        </div>
+---
 
-        <footer>
-            <p>Made with ❤️ by <a href="https://github.com/AndrewSameh30/" target="_blank">Andrew Kamel</a></p>
-        </footer>
-    </div>
-</body>
-</html>
+📫 **Contact Me:**
+
+- Email: [andrew30.sameh@gmail.com](mailto:andrew30.sameh@gmail.com)  
+- Phone: [+201207790053](tel:+201207790053)  
+- [LinkedIn](https://www.linkedin.com/in/andrewkamel485/)  
+- [GitHub](https://github.com/AndrewSameh30)  
+- [Resume](https://drive.google.com/file/d/1hXCwraQK5KuF6bD0L9rhYfFaSjhfmdZC/view?usp=sharing)
+
+---
+
+<h2 align="center">💻 Tech Stack</h2>
+
+<table align="center">
+  <tr>
+    <td align="center"><strong>Frontend</strong></td>
+    <td align="center"><strong>Backend</strong></td>
+    <td align="center"><strong>Tools</strong></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
+      <img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" alt="Angular" width="40" height="40" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40" />
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="Spring Boot" width="40" height="40" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="VSCode" width="40" height="40" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="40" height="40" />
+      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40" />
+    </td>
+  </tr>
+</table>
+
+---
+
+<h2 align="center">📜 About Me</h2>
+
+- 👨‍🎓 **Fresh graduate** with a BSc in Computer Science Engineering (CSE) from **The German University in Cairo (GUC)**  
+- 💡 Passionate about building innovative and impactful software solutions  
+- 🚀 Skilled in **Full-stack development**, **Mobile application development**, and **DevOps principles**  
+- 🔍 Always seeking opportunities to collaborate and grow with challenging projects  
+
+---
+
+<p align="center">Made with ❤️ by Andrew Kamel</p>
