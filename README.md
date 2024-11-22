@@ -20,32 +20,6 @@
 
 ---
 
-<h2 align="center">📫 Contact Me</h2>
-
-<p align="center">
-  <a href="mailto:andrew30.sameh@gmail.com" target="_blank" style="text-decoration: none; margin: 10px;">
-    <img src="https://img.shields.io/badge/-Email-%23ea4335?style=flat&logo=gmail&logoColor=white" width="120" height="40">
-  </a>
-  <a href="tel:+201207790053" target="_blank" style="text-decoration: none; margin: 10px;">
-    <img src="https://img.shields.io/badge/-Phone-%234caf50?style=flat&logo=phone&logoColor=white" width="120" height="40">
-  </a>
-  <a href="https://www.linkedin.com/in/andrewkamel485/" target="_blank" style="text-decoration: none; margin: 10px;">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230a66c2?style=flat&logo=linkedin&logoColor=white" width="120" height="40">
-  </a>
-  <a href="https://github.com/AndrewSameh30" target="_blank" style="text-decoration: none; margin: 10px;">
-    <img src="https://img.shields.io/badge/-GitHub-%23292e2e?style=flat&logo=github&logoColor=white" width="120" height="40">
-  </a>
-  <a href="https://drive.google.com/file/d/1hXCwraQK5KuF6bD0L9rhYfFaSjhfmdZC/view?usp=sharing" target="_blank" style="text-decoration: none; margin: 10px;">
-    <img src="https://img.shields.io/badge/-Resume-%2300b0ff?style=flat&logo=google-drive&logoColor=white" width="120" height="40">
-  </a>
-</p>
-
-<p align="center">
-  📧 <strong>Email:</strong> andrew30.sameh@gmail.com | ☎️ <strong>Phone:</strong> +201207790053
-</p>
-
----
-
 <h2 align="center">📜 About Me</h2>
 
 <p align="center">
@@ -95,6 +69,32 @@
     </td>
   </tr>
 </table>
+
+---
+
+<h2 align="center">📫 Contact Me</h2>
+
+<p align="center">
+  <a href="mailto:andrew30.sameh@gmail.com" target="_blank" style="text-decoration: none; margin: 10px;">
+    <img src="https://img.shields.io/badge/-Email-%23ea4335?style=flat&logo=gmail&logoColor=white" width="120" height="40">
+  </a>
+  <a href="tel:+201207790053" target="_blank" style="text-decoration: none; margin: 10px;">
+    <img src="https://img.shields.io/badge/-Phone-%234caf50?style=flat&logo=phone&logoColor=white" width="120" height="40">
+  </a>
+  <a href="https://www.linkedin.com/in/andrewkamel485/" target="_blank" style="text-decoration: none; margin: 10px;">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230a66c2?style=flat&logo=linkedin&logoColor=white" width="120" height="40">
+  </a>
+  <a href="https://github.com/AndrewSameh30" target="_blank" style="text-decoration: none; margin: 10px;">
+    <img src="https://img.shields.io/badge/-GitHub-%23292e2e?style=flat&logo=github&logoColor=white" width="120" height="40">
+  </a>
+  <a href="https://drive.google.com/file/d/1hXCwraQK5KuF6bD0L9rhYfFaSjhfmdZC/view?usp=sharing" target="_blank" style="text-decoration: none; margin: 10px;">
+    <img src="https://img.shields.io/badge/-Resume-%2300b0ff?style=flat&logo=google-drive&logoColor=white" width="120" height="40">
+  </a>
+</p>
+
+<p align="center">
+  📧 <strong>Email:</strong> andrew30.sameh@gmail.com | ☎️ <strong>Phone:</strong> +201207790053
+</p>
 
 ---
 
