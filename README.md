@@ -8,6 +8,15 @@
 
 ---
 
+<h2 align="center">📜 About Me</h2>
+
+- 👨‍🎓 **Fresh graduate** with a BSc in Computer Science Engineering (CSE) from **The German University in Cairo (GUC)**  
+- 💡 Passionate about building innovative and impactful software solutions  
+- 🚀 Skilled in **Full-stack development**, **Mobile application development**, and **DevOps principles**  
+- 🔍 Always seeking opportunities to collaborate and grow with challenging projects
+
+---
+
 <h2 align="center">📫 Contact Me</h2>
 
 <p align="center">
@@ -49,15 +58,6 @@
     </td>
   </tr>
 </table>
-
----
-
-<h2 align="center">📜 About Me</h2>
-
-- 👨‍🎓 **Fresh graduate** with a BSc in Computer Science Engineering (CSE) from **The German University in Cairo (GUC)**  
-- 💡 Passionate about building innovative and impactful software solutions  
-- 🚀 Skilled in **Full-stack development**, **Mobile application development**, and **DevOps principles**  
-- 🔍 Always seeking opportunities to collaborate and grow with challenging projects  
 
 ---
 
