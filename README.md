@@ -3,12 +3,31 @@
 <h3 align="center">Passionate and ambitious Software Engineer with BSc degree in Computer Science Engineering (CSE) from the German University in Cairo (GUC)</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/AndrewSameh30/AndrewSameh30/main/coding2.gif">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=andrewsameh30&label=Profile%20views&color=0e75b6&style=flat" alt="andrewsameh30" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andrewsameh30" alt="andrewsameh30" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+- 🔭 I’m currently working on [aaa](https://github.com/AndrewSameh30/)
+
+- 🌱 I’m currently learning **ppp**
+
+- 👯 I’m looking to collaborate on [bbb](https://github.com/AndrewSameh30/)
+
+- 🤝 I’m looking for help with [ccc](https://github.com/AndrewSameh30/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/AndrewSameh30/](https://github.com/AndrewSameh30/)
+
+- 📝 I regularly write articles on [https://github.com/AndrewSameh30/](https://github.com/AndrewSameh30/)
+
+- 💬 Ask me about **ooo**
 
 - 📫 How to reach me **andrew30.sameh@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1hXCwraQK5KuF6bD0L9rhYfFaSjhfmdZC/view?usp=drive_link](https://drive.google.com/file/d/1hXCwraQK5KuF6bD0L9rhYfFaSjhfmdZC/view?usp=drive_link)
+
+- ⚡ Fun fact **I'm a History nerd.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,3 +40,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andrewsameh30&show_icons=true&locale=en&layout=compact" alt="andrewsameh30" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andrewsameh30&show_icons=true&locale=en" alt="andrewsameh30" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andrewsameh30&" alt="andrewsameh30" /></p>
