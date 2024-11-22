@@ -1,8 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" height="40px">, I'm Andrew Kamel</h1>
-<span>
-<img src="https://media.giphy.com/media/hS3IR40sIwRl6zUyrQ/giphy.gif" width="20" height="20" align="left" >
-<img src="https://media.giphy.com/media/hS3IR40sIwRl6zUyrQ/giphy.gif" width="20" height="20" align="right" >
-</span>
+
 
 <div align="center">
   <p style="font-size: 30px; color: #0D46AD; font-family: 'Courier New', Courier, monospace; text-align: center; white-space: nowrap;">Software Engineer</p>
