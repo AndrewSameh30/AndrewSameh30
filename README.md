@@ -6,16 +6,37 @@
 
 ---
 
-<h2 align="center">🚀 My Tech Journey</h2>
+<h2 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 36px; color: #333;">🚀 My Tech Journey</h2>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=0D46AD&center=true&vCenter=true&width=800&lines=Software+Engineer;Full-Stack+Web+Developer;Mobile+Application+Developer;DevOps+Enthusiast;Lifelong+Learner" alt="Typing SVG">
+<div align="center" style="font-size: 24px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+  <em>"Driven by curiosity, passion, and the pursuit of creating impactful solutions that make a difference."</em>
 </div>
 
-<p align="center">
-  <em>
-    "Driven by curiosity, passion, and the pursuit of creating impactful solutions that make a difference."
-  </em>
+<p align="center" style="font-size: 18px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #555;">
+  Here's a glimpse of my journey:
+</p>
+
+<div align="center" style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 30px;">
+  <!-- My Tech Journey Badges -->
+  <div style="background: #0D46AD; color: white; border-radius: 25px; padding: 15px 25px; font-size: 18px; font-weight: bold; width: 180px; text-align: center;">
+    Software Engineer
+  </div>
+  <div style="background: #4CAF50; color: white; border-radius: 25px; padding: 15px 25px; font-size: 18px; font-weight: bold; width: 180px; text-align: center;">
+    Full-Stack Developer
+  </div>
+  <div style="background: #FF5733; color: white; border-radius: 25px; padding: 15px 25px; font-size: 18px; font-weight: bold; width: 180px; text-align: center;">
+    Mobile App Developer
+  </div>
+  <div style="background: #FFC300; color: white; border-radius: 25px; padding: 15px 25px; font-size: 18px; font-weight: bold; width: 180px; text-align: center;">
+    DevOps Enthusiast
+  </div>
+  <div style="background: #DAF7A6; color: white; border-radius: 25px; padding: 15px 25px; font-size: 18px; font-weight: bold; width: 180px; text-align: center;">
+    Lifelong Learner
+  </div>
+</div>
+
+<p align="center" style="font-size: 18px; color: #555; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; padding-top: 20px;">
+  I love diving into new technologies and building things that have a meaningful impact!
 </p>
 
 ---
