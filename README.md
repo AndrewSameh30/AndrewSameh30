@@ -4,7 +4,7 @@
 <img src="https://media.giphy.com/media/hS3IR40sIwRl6zUyrQ/giphy.gif" width="20" height="20" align="right" >
 </span>
 
----
+
 
 <h2 align="center">🚀 My Tech Journey</h2>
 
@@ -18,7 +18,7 @@
   </em>
 </p>
 
----
+
 
 <h2 align="center">📜 About Me</h2>
 
@@ -38,7 +38,7 @@
   🔍 Always seeking <strong>opportunities to collaborate</strong> and <strong>grow</strong> with challenging projects
 </p>
 
----
+
 
 <h2 align="center">💻 Tech Stack</h2>
 
@@ -70,7 +70,7 @@
   </tr>
 </table>
 
----
+
 
 <h2 align="center">📫 Contact Me</h2>
 
@@ -96,6 +96,6 @@
   📧 <strong>Email:</strong> andrew30.sameh@gmail.com | ☎️ <strong>Phone:</strong> +201207790053
 </p>
 
----
+
 
 <p align="center">Made with ❤️ by Andrew Kamel</p>
