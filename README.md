@@ -1,63 +1,116 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" height="40px">, I'm Andrew Kamel</h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Andrew Kamel - Software Engineer</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f9;
+            color: #333;
+        }
+        .container {
+            width: 80%;
+            margin: 0 auto;
+            padding: 20px;
+            background: #fff;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+            border-radius: 8px;
+        }
+        h1 {
+            text-align: center;
+            color: #0d46ad;
+        }
+        .highlight {
+            color: #0d46ad;
+            font-weight: bold;
+        }
+        .contact a {
+            color: #0d46ad;
+            text-decoration: none;
+            margin-right: 10px;
+        }
+        .skills, .about {
+            margin-top: 20px;
+        }
+        .skills ul, .tools ul {
+            display: flex;
+            flex-wrap: wrap;
+            list-style: none;
+            padding: 0;
+        }
+        .skills li, .tools li {
+            margin-right: 15px;
+            background: #e0f0ff;
+            padding: 8px 12px;
+            border-radius: 20px;
+            margin-bottom: 10px;
+        }
+        footer {
+            text-align: center;
+            margin-top: 20px;
+            padding: 10px;
+            background-color: #0d46ad;
+            color: #fff;
+            border-radius: 0 0 8px 8px;
+        }
+        footer a {
+            color: #fff;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Hi, I'm <span class="highlight">Andrew Kamel</span></h1>
+        <p>Passionate and ambitious Software Engineer with a <span class="highlight">BSc degree in Computer Science Engineering</span> (CSE) from the German University in Cairo (GUC). Proficient in various programming languages and frameworks, with a strong foundation in Cloud Computing, Networks, and DevOps. Seeking an entry-level <span class="highlight">(Backend, Frontend, Full-stack)</span> role to contribute to innovative projects.</p>
+        
+        <div class="contact">
+            <p>
+                📧 <a href="mailto:andrew30.sameh@gmail.com">andrew30.sameh@gmail.com</a>
+                | 📱 <a href="tel:+201207790053">+20 120 779 0053</a>
+                | 📄 <a href="https://drive.google.com/file/d/1hXCwraQK5KuF6bD0L9rhYfFaSjhfmdZC/view?usp=sharing" target="_blank">CV</a>
+                | 💼 <a href="https://www.linkedin.com/in/andrewkamel485/" target="_blank">LinkedIn</a>
+                | 🖥️ <a href="https://github.com/AndrewSameh30/" target="_blank">GitHub</a>
+            </p>
+        </div>
 
-<span>
-<img src="https://media.giphy.com/media/hS3IR40sIwRl6zUyrQ/giphy.gif" width="20" height="20" align="left" >
-<img src="https://media.giphy.com/media/hS3IR40sIwRl6zUyrQ/giphy.gif" width="20" height="20" align="right" >
-</span>
+        <div class="about">
+            <h2>🚀 About Me</h2>
+            <ul>
+                <li>🎓 BSc in Computer Science and Engineering from the German University in Cairo (GUC).</li>
+                <li>🧠 Proficient in React, Angular, Flutter, CSS, Node.js, Spring Boot, Java, Python, JavaScript.</li>
+                <li>💾 Skilled in databases like MSSQL, MongoDB, and Firebase.</li>
+                <li>☁️ Passionate about Cloud Computing, Networks, and DevOps.</li>
+                <li>🎯 Seeking an entry-level role in Backend, Frontend, or Full-stack Development.</li>
+            </ul>
+        </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=35&color=0D46AD&center=true&width=1000&height=61&lines=Passionate+and+Ambitious+Software+Engineer;Full+Stack+Developer;Mobile+Application+Developer;DevOps+Enthusiast;Python+and+Java+Developer)](https://github.com/AndrewSameh30/)
+        <div class="skills">
+            <h2>🛠️ Skills</h2>
+            <ul>
+                <li>React</li>
+                <li>Angular</li>
+                <li>Flutter</li>
+                <li>CSS</li>
+                <li>Node.js</li>
+                <li>Spring Boot</li>
+                <li>Java</li>
+                <li>Python</li>
+                <li>JavaScript</li>
+                <li>MSSQL</li>
+                <li>MongoDB</li>
+                <li>Firebase</li>
+            </ul>
+        </div>
 
-<div align="center">
-  <p>
-    📧 <a href="mailto:andrew30.sameh@gmail.com">andrew30.sameh@gmail.com</a>  
-    · 
-    📱 <a href="tel:+201207790053">+20 120 779 0053</a>  
-    · 
-    📄 <a href="https://drive.google.com/file/d/1hXCwraQK5KuF6bD0L9rhYfFaSjhfmdZC/view?usp=sharing" target="_blank">CV</a>  
-    · 
-    💼 <a href="https://www.linkedin.com/in/andrewkamel485/" target="_blank">LinkedIn</a>  
-    · 
-    🖥️ <a href="https://github.com/AndrewSameh30/" target="_blank">GitHub</a>  
-  </p>
-</div>
-
----
-
-### 🚀 About Me  
-- 🎓 **BSc in Computer Science and Engineering** from the **German University in Cairo (GUC)**.  
-- 🧠 Proficient in **React, Angular, Flutter, CSS, Node.js, Spring Boot, Java, Python, JavaScript**.  
-- 💾 Skilled in databases like **MSSQL, MongoDB, and Firebase**.  
-- ☁️ Passionate about **Cloud Computing**, **Networks**, and **DevOps**.  
-- 🎯 Seeking an entry-level role in **Backend**, **Frontend**, or **Full-stack Development** to contribute to innovative projects.
-
----
-
-### 🛠️ My Toolkit  
-| **Frontend**       | **Backend**          | **Programming**      | **Databases**      | **Tools**          |
-|---------------------|----------------------|----------------------|--------------------|--------------------|
-| React, Angular      | Node.js, Spring Boot | Java, Python, JS     | MSSQL, MongoDB     | VSCode, Git        |
-| Flutter, CSS        | Express.js           | TypeScript           | Firebase           | Figma, Docker      |
-
----
-
-### 🌟 Portfolio Highlights  
-- 💻 **Full-Stack Development**: Proficient in developing responsive web applications and interactive mobile apps.  
-- 📱 **Mobile App Development**: Experience in creating Flutter-based applications for seamless user experiences.  
-- 🚀 **DevOps Enthusiast**: Exploring CI/CD pipelines, containerization, and cloud platforms.  
-- 🧩 **Problem-Solving**: Strong skills in algorithms, data structures, and debugging.
-
----
-
-### 📈 GitHub Stats  
-<!-- Uncomment the following lines when you want to show GitHub stats -->
-<!--
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=AndrewSameh30&show_icons=true&theme=radical&icon_color=0D46AD&text_color=fff&title_color=fff" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewSameh30&layout=compact&theme=radical&title_color=fff&text_color=fff" height="170">
-</p>
--->
-
----
-
-<p align="center">Made with ❤️ by Andrew Kamel</p>
-<p align="center">© Andrew Kamel - 2024</p>
+        <footer>
+            <p>Made with ❤️ by <a href="https://github.com/AndrewSameh30/" target="_blank">Andrew Kamel</a></p>
+        </footer>
+    </div>
+</body>
+</html>
