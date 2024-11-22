@@ -26,9 +26,6 @@
   <a href="https://discordapp.com/users/YourDiscordID" target="_blank" rel="noreferrer">
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" alt="Discord" width="40" height="40" />
   </a>
-  <a href="https://github.com/AndrewSameh30" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github-alt.svg" alt="GitHub" width="40" height="40" />
-  </a>
 </p>
 
 
