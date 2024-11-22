@@ -22,12 +22,26 @@
 
 <h2 align="center">📫 Contact Me</h2>
 
+<div align="center">
+  <a href="mailto:andrew30.sameh@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-%20%20andrew30.sameh@gmail.com-%23EA4335?style=flat&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="tel:+201207790053" target="_blank">
+    <img src="https://img.shields.io/badge/Phone-%2B201207790053-%23999999?style=flat&logo=phone&logoColor=white" alt="Phone">
+  </a>
+  <a href="https://www.linkedin.com/in/andrewkamel485/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%20%20Andrew%20Kamel-%230A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/AndrewSameh30" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%20%20AndrewSameh30-%23121011?style=flat&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://drive.google.com/file/d/1hXCwraQK5KuF6bD0L9rhYfFaSjhfmdZC/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-%20View-%2300B0FF?style=flat&logo=google-drive&logoColor=white" alt="Resume">
+  </a>
+</div>
+
 <p align="center">
-  <a href="mailto:andrew30.sameh@gmail.com"><img src="https://img.shields.io/badge/Email-andrew30.sameh@gmail.com-blue?style=flat&logo=gmail"></a>
-  <a href="tel:+201207790053"><img src="https://img.shields.io/badge/Phone-+201207790053-blue?style=flat&logo=phone"></a>
-  <a href="https://www.linkedin.com/in/andrewkamel485/"><img src="https://img.shields.io/badge/LinkedIn-Andrew%20Kamel-blue?style=flat&logo=linkedin"></a>
-  <a href="https://github.com/AndrewSameh30"><img src="https://img.shields.io/badge/GitHub-AndrewSameh30-blue?style=flat&logo=github"></a>
-  <a href="https://drive.google.com/file/d/1hXCwraQK5KuF6bD0L9rhYfFaSjhfmdZC/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-View-blue?style=flat&logo=google-drive"></a>
+  📧 <strong>Email:</strong> andrew30.sameh@gmail.com | ☎️ <strong>Phone:</strong> +201207790053
 </p>
 
 ---
