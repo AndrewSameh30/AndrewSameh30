@@ -1,6 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" height="40px">, I'm Andrew Kamel</h1>
 
-
 <div align="center">
   <p style="font-size: 60px; color: #0D46AD; font-family: 'Courier New', Courier, monospace; text-align: center; white-space: nowrap; font-weight: bold; text-transform: uppercase; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);">
     Software Engineer
