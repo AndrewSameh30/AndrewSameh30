@@ -5,13 +5,12 @@
 </span>
 
 
-
-
-<div align="center">
+<h1 align="center">
   <span style="font-size: 30px; color: #0D46AD; font-family: 'Courier New', Courier, monospace; font-weight: bold; text-transform: uppercase; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);">
     Software Engineer
   </span>
-</div>
+</h1>
+
 
 <p align="center">
   <em>
