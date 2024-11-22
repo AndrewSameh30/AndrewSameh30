@@ -3,9 +3,6 @@
 <h3 align="center">Passionate and ambitious Software Engineer with BSc degree in Computer Science Engineering (CSE) from the German University in Cairo (GUC)</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/AndrewSameh30/AndrewSameh30/main/coding2.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=andrewsameh30&label=Profile%20views&color=0e75b6&style=flat" alt="andrewsameh30" /> </p>
-
-<p align="left"> <a href="https://www.linkedin.com/in/andrewkamel485/" target="blank"><img src="https://img.shields.io/linkedin/follow/?logo=linkedin&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on [aaa](https://github.com/AndrewSameh30/)
 
