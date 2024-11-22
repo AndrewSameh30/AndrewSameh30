@@ -1,60 +1,63 @@
-# 👋 Hi there, I'm Andrew Kamel!
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" height="40px">, I'm Andrew Kamel</h1>
 
-Welcome to my GitHub profile! I'm a passionate and ambitious **Software Engineer** with a **BSc** degree in **Computer Science Engineering (CSE)** from the **German University in Cairo (GUC)**. Proficient in a variety of programming languages and frameworks including **Java**, **Python**, **ReactJS**, **NodeJS**, **SQL**, **Flutter** with hands-on experience through academic projects and internships. Here, you'll find projects and experiments that reflect my curiosity and dedication to creating robust and innovative solutions.
+<span>
+<img src="https://media.giphy.com/media/hS3IR40sIwRl6zUyrQ/giphy.gif" width="20" height="20" align="left" >
+<img src="https://media.giphy.com/media/hS3IR40sIwRl6zUyrQ/giphy.gif" width="20" height="20" align="right" >
+</span>
 
----
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=35&color=0D46AD&center=true&width=1000&height=61&lines=Passionate+and+Ambitious+Software+Engineer;Full+Stack+Developer;Mobile+Application+Developer;DevOps+Enthusiast;Python+and+Java+Developer)](https://github.com/AndrewSameh30/)
 
-## 🔭 Current Focus
-
-- 💻 **Backend Development**: Crafting reliable servers and APIs.
-- ⚙️ **DevOps**: Exploring CI/CD, cloud environments, and containerization.
-- 🛠️ **Node.js Projects**: Developing applications with MongoDB Atlas and session management.
-
----
-
-## 🌱 What I'm Learning
-
-- Advanced backend techniques.
-- Best practices for secure coding.
-
----
-
-## 📚 Projects
-
-### 🌐 Web Development
-- **Session Management Application**: Secure web app integrating session-based authentication.
-- **Database Integration**: Hands-on experience with MongoDB Atlas and environment variable configurations.
+<div align="center">
+  <p>
+    📧 <a href="mailto:andrew30.sameh@gmail.com">andrew30.sameh@gmail.com</a>  
+    · 
+    📱 <a href="tel:+201207790053">+20 120 779 0053</a>  
+    · 
+    📄 <a href="https://drive.google.com/file/d/1hXCwraQK5KuF6bD0L9rhYfFaSjhfmdZC/view?usp=sharing" target="_blank">CV</a>  
+    · 
+    💼 <a href="https://www.linkedin.com/in/andrewkamel485/" target="_blank">LinkedIn</a>  
+    · 
+    🖥️ <a href="https://github.com/AndrewSameh30/" target="_blank">GitHub</a>  
+  </p>
+</div>
 
 ---
 
-## 🛠️ Tech Stack
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### 🚀 About Me  
+- 🎓 **BSc in Computer Science and Engineering** from the **German University in Cairo (GUC)**.  
+- 🧠 Proficient in **React, Angular, Flutter, CSS, Node.js, Spring Boot, Java, Python, JavaScript**.  
+- 💾 Skilled in databases like **MSSQL, MongoDB, and Firebase**.  
+- ☁️ Passionate about **Cloud Computing**, **Networks**, and **DevOps**.  
+- 🎯 Seeking an entry-level role in **Backend**, **Frontend**, or **Full-stack Development** to contribute to innovative projects.
 
 ---
 
-## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+### 🛠️ My Toolkit  
+| **Frontend**       | **Backend**          | **Programming**      | **Databases**      | **Tools**          |
+|---------------------|----------------------|----------------------|--------------------|--------------------|
+| React, Angular      | Node.js, Spring Boot | Java, Python, JS     | MSSQL, MongoDB     | VSCode, Git        |
+| Flutter, CSS        | Express.js           | TypeScript           | Firebase           | Figma, Docker      |
 
 ---
 
-## 📫 Let's Connect
-- 🌐 [Portfolio Website](#)
-- 📧 [Email](mailto:andrew30.sameh@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/andrewkamel485)
+### 🌟 Portfolio Highlights  
+- 💻 **Full-Stack Development**: Proficient in developing responsive web applications and interactive mobile apps.  
+- 📱 **Mobile App Development**: Experience in creating Flutter-based applications for seamless user experiences.  
+- 🚀 **DevOps Enthusiast**: Exploring CI/CD pipelines, containerization, and cloud platforms.  
+- 🧩 **Problem-Solving**: Strong skills in algorithms, data structures, and debugging.
 
 ---
 
-## 🎯 Fun Facts
-- I'm always curious about how things work and love breaking (and fixing) them.
-- When I'm not coding, I enjoy exploring architecture and cultural heritage.
+### 📈 GitHub Stats  
+<!-- Uncomment the following lines when you want to show GitHub stats -->
+<!--
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=AndrewSameh30&show_icons=true&theme=radical&icon_color=0D46AD&text_color=fff&title_color=fff" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewSameh30&layout=compact&theme=radical&title_color=fff&text_color=fff" height="170">
+</p>
+-->
 
 ---
 
-### ✨ Keep Exploring
-Feel free to explore my repositories, open issues, or contribute to my projects. Let's build something amazing together!
-
----
+<p align="center">Made with ❤️ by Andrew Kamel</p>
+<p align="center">© Andrew Kamel - 2024</p>
