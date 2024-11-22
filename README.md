@@ -4,7 +4,18 @@
 <img src="https://media.giphy.com/media/hS3IR40sIwRl6zUyrQ/giphy.gif" width="20" height="20" align="right" >
 </span>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=35&color=0D46AD&center=true&width=1000&height=61&lines=Software+Engineer;Full-Stack+Web+Developer;Mobile+Application+Developer;DevOps+Enthusiast;Fresh+Graduate)](https://github.com/AndrewSameh30)
+---
+
+<h2 align="center">💻 My Journey in Tech</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=35&color=0078D7&center=true&vCenter=true&width=750&height=60&lines=Software+Engineer;Passionate+Full-Stack+Developer;Mobile+App+Creator;DevOps+Enthusiast;Fresh+Graduate+from+GUC" alt="Typing Animation">
+</p>
+
+<p align="center">
+  🚀 <strong>Exploring possibilities</strong>, <strong>solving problems</strong>, and <strong>building impactful solutions</strong>!
+</p>
+
 
 ---
 
