@@ -4,14 +4,6 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/AndrewSameh30/AndrewSameh30/main/coding2.gif">
 
 
-- 🔭 I’m currently working on [aaa](https://github.com/AndrewSameh30/)
-
-- 🌱 I’m currently learning **ppp**
-
-- 👯 I’m looking to collaborate on [bbb](https://github.com/AndrewSameh30/)
-
-- 🤝 I’m looking for help with [ccc](https://github.com/AndrewSameh30/)
-
 - 👨‍💻 All of my projects are available at [https://github.com/AndrewSameh30/](https://github.com/AndrewSameh30/)
 
 - 📝 I regularly write articles on [https://github.com/AndrewSameh30/](https://github.com/AndrewSameh30/)
