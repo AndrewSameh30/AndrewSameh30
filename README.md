@@ -2,7 +2,9 @@
 
 
 <div align="center">
-  <p style="font-size: 30px; color: #0D46AD; font-family: 'Courier New', Courier, monospace; text-align: center; white-space: nowrap;">Software Engineer</p>
+  <p style="font-size: 60px; color: #0D46AD; font-family: 'Courier New', Courier, monospace; text-align: center; white-space: nowrap; font-weight: bold; text-transform: uppercase; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);">
+    Software Engineer
+  </p>
 </div>
 
 <p align="center">
