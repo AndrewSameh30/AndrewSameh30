@@ -8,7 +8,11 @@
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=0D46AD&center=true&vCenter=true&width=800&lines=Software+Engineer">
+<h1 align="center">
+  <span style="font-size: 30px; color: #0D46AD; font-family: 'Courier New', Courier, monospace; font-weight: bold; text-transform: uppercase; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);">
+    Software Engineer
+  </span>
+</h1>
 </div>
 
 <p align="center">
