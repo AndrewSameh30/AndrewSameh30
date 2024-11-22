@@ -8,7 +8,7 @@
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=0D46AD&center=true&vCenter=true&width=800&lines=Software+Engineer" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=0D46AD&center=true&vCenter=true&width=800&lines=Software+Engineer">
 </div>
 
 <p align="center">
