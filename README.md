@@ -20,7 +20,7 @@
   <a href="mailto:andrew30.sameh@gmail.com" target="_blank" rel="noreferrer">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="40" height="40" />
   </a>
-  <a href="https://wa.me/1234567890" target="_blank" rel="noreferrer">
+  <a href="https://wa.me/+201207790053" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" width="40" height="40" />
   </a>
   <a href="https://discordapp.com/users/werewolf4855" target="_blank" rel="noreferrer">
