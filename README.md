@@ -6,7 +6,6 @@
 
 
 
-<h2 align="center">🚀 My Tech Journey</h2>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=30&color=0D46AD&center=true&vCenter=true&width=800&lines=Software+Engineer;Full-Stack+Web+Developer;Mobile+Application+Developer;DevOps+Enthusiast;Lifelong+Learner" alt="Typing SVG">
@@ -20,7 +19,6 @@
 
 
 
-<h2 align="center">📜 About Me</h2>
 
 <p align="center">
   👨‍🎓 <strong>Fresh graduate</strong> with a <strong>BSc in Computer Science Engineering (CSE)</strong> from <strong>The German University in Cairo (GUC)</strong>  
@@ -40,7 +38,6 @@
 
 
 
-<h2 align="center">💻 Tech Stack</h2>
 
 <table align="center">
   <tr>
@@ -72,7 +69,6 @@
 
 
 
-<h2 align="center">📫 Contact Me</h2>
 
 <p align="center">
   <a href="mailto:andrew30.sameh@gmail.com" target="_blank" style="text-decoration: none; margin: 10px;">
