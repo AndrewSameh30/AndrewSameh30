@@ -6,38 +6,35 @@
 
 ---
 
-<h2 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 36px; color: #333;">🚀 My Tech Journey</h2>
+<h2 align="center">💻 Tech Stack</h2>
 
-<div align="center" style="font-size: 24px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-  <em>"Driven by curiosity, passion, and the pursuit of creating impactful solutions that make a difference."</em>
-</div>
-
-<p align="center" style="font-size: 18px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #555;">
-  Here's a glimpse of my journey:
-</p>
-
-<div align="center" style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 30px;">
-  <!-- My Tech Journey Badges -->
-  <div style="background: #0D46AD; color: white; border-radius: 25px; padding: 15px 25px; font-size: 18px; font-weight: bold; width: 180px; text-align: center;">
-    Software Engineer
-  </div>
-  <div style="background: #4CAF50; color: white; border-radius: 25px; padding: 15px 25px; font-size: 18px; font-weight: bold; width: 180px; text-align: center;">
-    Full-Stack Developer
-  </div>
-  <div style="background: #FF5733; color: white; border-radius: 25px; padding: 15px 25px; font-size: 18px; font-weight: bold; width: 180px; text-align: center;">
-    Mobile App Developer
-  </div>
-  <div style="background: #FFC300; color: white; border-radius: 25px; padding: 15px 25px; font-size: 18px; font-weight: bold; width: 180px; text-align: center;">
-    DevOps Enthusiast
-  </div>
-  <div style="background: #DAF7A6; color: white; border-radius: 25px; padding: 15px 25px; font-size: 18px; font-weight: bold; width: 180px; text-align: center;">
-    Lifelong Learner
-  </div>
-</div>
-
-<p align="center" style="font-size: 18px; color: #555; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; padding-top: 20px;">
-  I love diving into new technologies and building things that have a meaningful impact!
-</p>
+<table align="center">
+  <tr>
+    <td align="center"><strong>Frontend</strong></td>
+    <td align="center"><strong>Backend</strong></td>
+    <td align="center"><strong>Tools</strong></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
+      <img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" alt="Angular" width="40" height="40" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40" />
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="Spring Boot" width="40" height="40" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="VSCode" width="40" height="40" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="40" height="40" />
+      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40" />
+    </td>
+  </tr>
+</table>
 
 ---
 
