@@ -10,10 +10,21 @@
 
 <h2 align="center">📜 About Me</h2>
 
-- 👨‍🎓 **Fresh graduate** with a BSc in Computer Science Engineering (CSE) from **The German University in Cairo (GUC)**  
-- 💡 Passionate about building innovative and impactful software solutions  
-- 🚀 Skilled in **Full-stack development**, **Mobile application development**, and **DevOps principles**  
-- 🔍 Always seeking opportunities to collaborate and grow with challenging projects
+<p align="center">
+  👨‍🎓 <strong>Fresh graduate</strong> with a <strong>BSc in Computer Science Engineering (CSE)</strong> from <strong>The German University in Cairo (GUC)</strong>  
+</p>
+
+<p align="center">
+  💡 Passionate about <strong>building innovative and impactful software solutions</strong>
+</p>
+
+<p align="center">
+  🚀 Skilled in <strong>Full-stack development</strong>, <strong>Mobile application development</strong>, and <strong>DevOps principles</strong>
+</p>
+
+<p align="center">
+  🔍 Always seeking <strong>opportunities to collaborate</strong> and <strong>grow</strong> with challenging projects
+</p>
 
 ---
 
