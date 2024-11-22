@@ -6,16 +6,17 @@
 
 ---
 
-<h2 align="center">💻 My Journey in Tech</h2>
+<h2 align="center">🚀 My Tech Journey</h2>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=0D46AD&center=true&vCenter=true&width=800&lines=Software+Engineer;Full-Stack+Web+Developer;Mobile+Application+Developer;DevOps+Enthusiast;Lifelong+Learner" alt="Typing SVG">
+</div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=35&color=0078D7&center=true&vCenter=true&width=750&height=60&lines=Software+Engineer;Passionate+Full-Stack+Developer;Mobile+App+Creator;DevOps+Enthusiast;Fresh+Graduate+from+GUC" alt="Typing Animation">
+  <em>
+    "Driven by curiosity, passion, and the pursuit of creating impactful solutions that make a difference."
+  </em>
 </p>
-
-<p align="center">
-  🚀 <strong>Exploring possibilities</strong>, <strong>solving problems</strong>, and <strong>building impactful solutions</strong>!
-</p>
-
 
 ---
 
