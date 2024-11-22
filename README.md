@@ -95,5 +95,3 @@
 
 
 <p align="center">Made with ❤️ by Andrew Kamel</p>
-
-in the heroku section i want it to be Software Engineer only and doesn't have the typing effect
