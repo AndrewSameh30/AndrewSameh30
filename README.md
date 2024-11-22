@@ -5,7 +5,7 @@
 </span>
 
 <div align="center">
-  <p style="font-size: 30px; color: #0D46AD; text-align: center;">Software Engineer</p>
+  <p style="font-size: 30px; color: #0D46AD; font-family: 'Courier New', Courier, monospace; text-align: center; white-space: nowrap;">Software Engineer</p>
 </div>
 
 <p align="center">
