@@ -23,7 +23,7 @@
   <a href="https://wa.me/1234567890" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" width="40" height="40" />
   </a>
-  <a href="https://discordapp.com/users/YourDiscordID" target="_blank" rel="noreferrer">
+  <a href="https://discordapp.com/users/werewolf4855" target="_blank" rel="noreferrer">
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" alt="Discord" width="40" height="40" />
   </a>
 </p>
