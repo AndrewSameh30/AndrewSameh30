@@ -1,9 +1,14 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" height="40px">, I'm Andrew Kamel</h1>
+<span>
+<img src="https://media.giphy.com/media/hS3IR40sIwRl6zUyrQ/giphy.gif" width="20" height="20" align="left" >
+<img src="https://media.giphy.com/media/hS3IR40sIwRl6zUyrQ/giphy.gif" width="20" height="20" align="right" >
+</span>
+
+
+
 
 <div align="center">
-  <p style="font-size: 60px; color: #0D46AD; font-family: 'Courier New', Courier, monospace; text-align: center; white-space: nowrap; font-weight: bold; text-transform: uppercase; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);">
-    Software Engineer
-  </p>
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=0D46AD&center=true&vCenter=true&width=800&lines=Software+Engineer;Full-Stack+Web+Developer;Mobile+Application+Developer;DevOps+Enthusiast;Lifelong+Learner" alt="Typing SVG">
 </div>
 
 <p align="center">
@@ -11,6 +16,9 @@
     "Driven by curiosity, passion, and the pursuit of creating impactful solutions that make a difference."
   </em>
 </p>
+
+
+
 
 <p align="center">
   👨‍🎓 <strong>Fresh graduate</strong> with a <strong>BSc in Computer Science Engineering (CSE)</strong> from <strong>The German University in Cairo (GUC)</strong>  
@@ -27,6 +35,9 @@
 <p align="center">
   🔍 Always seeking <strong>opportunities to collaborate</strong> and <strong>grow</strong> with challenging projects
 </p>
+
+
+
 
 <table align="center">
   <tr>
@@ -56,6 +67,9 @@
   </tr>
 </table>
 
+
+
+
 <p align="center">
   <a href="mailto:andrew30.sameh@gmail.com" target="_blank" style="text-decoration: none; margin: 10px;">
     <img src="https://img.shields.io/badge/-Email-%23ea4335?style=flat&logo=gmail&logoColor=white" width="120" height="40">
@@ -78,4 +92,8 @@
   📧 <strong>Email:</strong> andrew30.sameh@gmail.com | ☎️ <strong>Phone:</strong> +201207790053
 </p>
 
+
+
 <p align="center">Made with ❤️ by Andrew Kamel</p>
+
+in the heroku section i want it to be Software Engineer only and doesn't have the typing effect
