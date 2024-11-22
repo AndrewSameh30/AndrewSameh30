@@ -6,10 +6,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AndrewSameh30/](https://github.com/AndrewSameh30/)
 
-- 📝 I regularly write articles on [https://github.com/AndrewSameh30/](https://github.com/AndrewSameh30/)
-
-- 💬 Ask me about **ooo**
-
 - 📫 How to reach me **andrew30.sameh@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1hXCwraQK5KuF6bD0L9rhYfFaSjhfmdZC/view?usp=drive_link](https://drive.google.com/file/d/1hXCwraQK5KuF6bD0L9rhYfFaSjhfmdZC/view?usp=drive_link)
