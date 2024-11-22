@@ -23,20 +23,34 @@
 <h2 align="center">📫 Contact Me</h2>
 
 <div align="center">
-  <a href="mailto:andrew30.sameh@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-%20%20andrew30.sameh@gmail.com-%23EA4335?style=flat&logo=gmail&logoColor=white" alt="Email">
+  <a href="mailto:andrew30.sameh@gmail.com" target="_blank" style="text-decoration: none; margin: 10px;">
+    <button style="background: linear-gradient(145deg, #ea4335, #dc2d21); border: none; color: white; padding: 12px 24px; border-radius: 30px; font-size: 16px; font-weight: bold; cursor: pointer; box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.2); transition: 0.3s;">
+      Email
+    </button>
   </a>
-  <a href="tel:+201207790053" target="_blank">
-    <img src="https://img.shields.io/badge/Phone-%2B201207790053-%23999999?style=flat&logo=phone&logoColor=white" alt="Phone">
+  
+  <a href="tel:+201207790053" target="_blank" style="text-decoration: none; margin: 10px;">
+    <button style="background: linear-gradient(145deg, #2196f3, #1e88e5); border: none; color: white; padding: 12px 24px; border-radius: 30px; font-size: 16px; font-weight: bold; cursor: pointer; box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.2); transition: 0.3s;">
+      Phone
+    </button>
   </a>
-  <a href="https://www.linkedin.com/in/andrewkamel485/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%20%20Andrew%20Kamel-%230A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+  
+  <a href="https://www.linkedin.com/in/andrewkamel485/" target="_blank" style="text-decoration: none; margin: 10px;">
+    <button style="background: linear-gradient(145deg, #0a66c2, #004182); border: none; color: white; padding: 12px 24px; border-radius: 30px; font-size: 16px; font-weight: bold; cursor: pointer; box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.2); transition: 0.3s;">
+      LinkedIn
+    </button>
   </a>
-  <a href="https://github.com/AndrewSameh30" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%20%20AndrewSameh30-%23121011?style=flat&logo=github&logoColor=white" alt="GitHub">
+  
+  <a href="https://github.com/AndrewSameh30" target="_blank" style="text-decoration: none; margin: 10px;">
+    <button style="background: linear-gradient(145deg, #24292f, #6a6a6a); border: none; color: white; padding: 12px 24px; border-radius: 30px; font-size: 16px; font-weight: bold; cursor: pointer; box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.2); transition: 0.3s;">
+      GitHub
+    </button>
   </a>
-  <a href="https://drive.google.com/file/d/1hXCwraQK5KuF6bD0L9rhYfFaSjhfmdZC/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-%20View-%2300B0FF?style=flat&logo=google-drive&logoColor=white" alt="Resume">
+  
+  <a href="https://drive.google.com/file/d/1hXCwraQK5KuF6bD0L9rhYfFaSjhfmdZC/view?usp=sharing" target="_blank" style="text-decoration: none; margin: 10px;">
+    <button style="background: linear-gradient(145deg, #00b0ff, #0085c7); border: none; color: white; padding: 12px 24px; border-radius: 30px; font-size: 16px; font-weight: bold; cursor: pointer; box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.2); transition: 0.3s;">
+      Resume
+    </button>
   </a>
 </div>
 
@@ -45,6 +59,7 @@
 </p>
 
 ---
+
 
 <h2 align="center">📜 About Me</h2>
 
