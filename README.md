@@ -4,11 +4,8 @@
 <img src="https://media.giphy.com/media/hS3IR40sIwRl6zUyrQ/giphy.gif" width="20" height="20" align="right" >
 </span>
 
-
-
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=0D46AD&center=true&vCenter=true&width=800&lines=Software+Engineer;Full-Stack+Web+Developer;Mobile+Application+Developer;DevOps+Enthusiast;Lifelong+Learner" alt="Typing SVG">
+  <p style="font-size: 30px; color: #0D46AD; text-align: center;">Software Engineer</p>
 </div>
 
 <p align="center">
@@ -16,9 +13,6 @@
     "Driven by curiosity, passion, and the pursuit of creating impactful solutions that make a difference."
   </em>
 </p>
-
-
-
 
 <p align="center">
   👨‍🎓 <strong>Fresh graduate</strong> with a <strong>BSc in Computer Science Engineering (CSE)</strong> from <strong>The German University in Cairo (GUC)</strong>  
@@ -35,9 +29,6 @@
 <p align="center">
   🔍 Always seeking <strong>opportunities to collaborate</strong> and <strong>grow</strong> with challenging projects
 </p>
-
-
-
 
 <table align="center">
   <tr>
@@ -67,9 +58,6 @@
   </tr>
 </table>
 
-
-
-
 <p align="center">
   <a href="mailto:andrew30.sameh@gmail.com" target="_blank" style="text-decoration: none; margin: 10px;">
     <img src="https://img.shields.io/badge/-Email-%23ea4335?style=flat&logo=gmail&logoColor=white" width="120" height="40">
@@ -91,7 +79,5 @@
 <p align="center">
   📧 <strong>Email:</strong> andrew30.sameh@gmail.com | ☎️ <strong>Phone:</strong> +201207790053
 </p>
-
-
 
 <p align="center">Made with ❤️ by Andrew Kamel</p>
