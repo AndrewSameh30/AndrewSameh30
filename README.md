@@ -8,6 +8,18 @@
 
 ---
 
+<h2 align="center">📫 Contact Me</h2>
+
+<p align="center">
+  <a href="mailto:andrew30.sameh@gmail.com"><img src="https://img.shields.io/badge/Email-andrew30.sameh@gmail.com-blue?style=flat&logo=gmail"></a>
+  <a href="tel:+201207790053"><img src="https://img.shields.io/badge/Phone-+201207790053-blue?style=flat&logo=phone"></a>
+  <a href="https://www.linkedin.com/in/andrewkamel485/"><img src="https://img.shields.io/badge/LinkedIn-Andrew%20Kamel-blue?style=flat&logo=linkedin"></a>
+  <a href="https://github.com/AndrewSameh30"><img src="https://img.shields.io/badge/GitHub-AndrewSameh30-blue?style=flat&logo=github"></a>
+  <a href="https://drive.google.com/file/d/1hXCwraQK5KuF6bD0L9rhYfFaSjhfmdZC/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-View-blue?style=flat&logo=google-drive"></a>
+</p>
+
+---
+
 <h2 align="center">📜 About Me</h2>
 
 <p align="center">
@@ -24,18 +36,6 @@
 
 <p align="center">
   🔍 Always seeking <strong>opportunities to collaborate</strong> and <strong>grow</strong> with challenging projects
-</p>
-
----
-
-<h2 align="center">📫 Contact Me</h2>
-
-<p align="center">
-  <a href="mailto:andrew30.sameh@gmail.com"><img src="https://img.shields.io/badge/Email-andrew30.sameh@gmail.com-blue?style=flat&logo=gmail"></a>
-  <a href="tel:+201207790053"><img src="https://img.shields.io/badge/Phone-+201207790053-blue?style=flat&logo=phone"></a>
-  <a href="https://www.linkedin.com/in/andrewkamel485/"><img src="https://img.shields.io/badge/LinkedIn-Andrew%20Kamel-blue?style=flat&logo=linkedin"></a>
-  <a href="https://github.com/AndrewSameh30"><img src="https://img.shields.io/badge/GitHub-AndrewSameh30-blue?style=flat&logo=github"></a>
-  <a href="https://drive.google.com/file/d/1hXCwraQK5KuF6bD0L9rhYfFaSjhfmdZC/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-View-blue?style=flat&logo=google-drive"></a>
 </p>
 
 ---
