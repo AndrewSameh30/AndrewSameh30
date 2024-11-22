@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/AndrewSameh30/AndrewSameh30/main/linkedin_wall.jpg)](https://github.com/AndrewSameh30/)
+[![MasterHead](https://raw.githubusercontent.com/AndrewSameh30/AndrewSameh30/main/linkedin_wall.png)](https://github.com/AndrewSameh30/)
 <h1 align="center">Hi 👋, I'm Andrew Kamel</h1>
 <h3 align="center">Passionate and ambitious Software Engineer with BSc degree in Computer Science Engineering (CSE) from the German University in Cairo (GUC)</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*4fNBO_UDYEVxM0E5T2FyJQ.gif">
