@@ -2,7 +2,6 @@
 <h3 align="center">Passionate and ambitious Software Engineer with BSc degree in Computer Science Engineering (CSE) from the German University in Cairo (GUC)</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/AndrewSameh30/AndrewSameh30/main/coding2.gif">
 
-
 - 👨‍💻 All of my projects are available at [https://github.com/AndrewSameh30/](https://github.com/AndrewSameh30/)
 
 - 📫 How to reach me **andrew30.sameh@gmail.com**
