@@ -2,14 +2,6 @@
 <h3 align="center">Passionate and ambitious Software Engineer with BSc degree in Computer Science Engineering (CSE) from the German University in Cairo (GUC)</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/AndrewSameh30/AndrewSameh30/main/coding2.gif">
 
-- 👨‍💻 All of my projects are available at [https://github.com/AndrewSameh30/](https://github.com/AndrewSameh30/)
-
-- 📫 How to reach me **andrew30.sameh@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1hXCwraQK5KuF6bD0L9rhYfFaSjhfmdZC/view?usp=drive_link](https://drive.google.com/file/d/1hXCwraQK5KuF6bD0L9rhYfFaSjhfmdZC/view?usp=drive_link)
-
-- ⚡ Fun fact **I'm a History nerd.**
-
 <h3 align="left">📜 Quick Links</h3>
 <ul>
   <li><b>Portfolio:</b> <a href="https://github.com/AndrewSameh30/" target="_blank">My GitHub Projects</a></li>
