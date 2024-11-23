@@ -4,7 +4,7 @@
 
 <h3 align="left">📖 About Me</h3>
 <p>
-I am a <b>Software Engineer</b> with a <b>BSc degree</b> in <b>Computer Science Engineering (CSE)</b> from the <b>German University in Cairo (GUC)</b>. My technical expertise spans a wide range of programming languages and frameworks, including <b>Java</b>, <b>Python</b>, <b>ReactJS</b>, <b>NodeJS</b>, <b>SQL</b>, and <b>Flutter</b>. I also have hands-on experience with Cloud Computing, Networks, and Machine Learning. 
+I am a <b>Software Engineer</b> with a <b>BSc degree</b> in <b>Computer Science Engineering (CSE)</b> from the <b>German University in Cairo (GUC)</b>. My technical expertise spans a wide range of programming languages and frameworks, including <b>Java</b>, <b>Python</b>, <b>ReactJS</b>, <b>NodeJS</b>, <b>SQL</b>, and <b>Flutter</b>. Possess decent problem-solving skills, a collaborative mindset, and a commitment to continuous learning.
 </p>
 
 <h3 align="left">🔗 Quick Links</h3>
