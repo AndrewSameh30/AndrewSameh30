@@ -10,16 +10,12 @@
 
 - ⚡ Fun fact **I'm a History nerd.**
 
-- ---
-
 <h3 align="left">📜 Quick Links</h3>
 <ul>
   <li><b>Portfolio:</b> <a href="https://github.com/AndrewSameh30/" target="_blank">My GitHub Projects</a></li>
   <li><b>Resume:</b> <a href="https://drive.google.com/file/d/1hXCwraQK5KuF6bD0L9rhYfFaSjhfmdZC/view?usp=drive_link" target="_blank">Resume</a></li>
   <li><b>Email:</b> <a href="mailto:andrew30.sameh@gmail.com" target="_blank">andrew30.sameh@gmail.com</a></li>
 </ul>
-
----
 
 <h3 align="left">Contact me</h3>
 <p align="left">
@@ -36,8 +32,6 @@
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" alt="Discord" width="40" height="40" />
   </a>
 </p>
-
-
 
 <h3 align="left">Languages and Tools</h3>
 <p align="left"> 
