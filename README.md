@@ -1,11 +1,11 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" height="40px">, I'm Andrew Kamel</h1>
 
 <h3 align="center">
-  <img src="https://media.giphy.com/media/hS3IR40sIwRl6zUyrQ/giphy.gif" width="20" height="20" align="left" >
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Left GIF" width="20" height="20">
+  <img src="https://raw.githubusercontent.com/AndrewSameh30/AndrewSameh30/main/14.gif" width="20" height="20" align="left" >
+  <img src="https://raw.githubusercontent.com/AndrewSameh30/AndrewSameh30/main/15.gif" alt="Left GIF" width="20" height="20">
   Software Engineer & AI Enthusiast
-  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" alt="Right GIF" width="20" height="20">
-  <img src="https://media.giphy.com/media/hS3IR40sIwRl6zUyrQ/giphy.gif" width="20" height="20" align="right" >
+  <img src="https://raw.githubusercontent.com/AndrewSameh30/AndrewSameh30/main/15.gif" alt="Right GIF" width="20" height="20">
+  <img src="https://raw.githubusercontent.com/AndrewSameh30/AndrewSameh30/main/14.gif" width="20" height="20" align="right" >
 </h3>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/AndrewSameh30/AndrewSameh30/main/4.gif">
