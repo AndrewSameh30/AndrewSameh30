@@ -14,8 +14,8 @@ I am a <b>Software Engineer</b> with a <b>BSc degree</b> in <b>Computer Science 
     <a href="https://www.linkedin.com/in/andrewkamel485/" target="_blank" style="text-decoration: none; color: inherit;">My LinkedIn Profile</a>
   </li>
   <li>
-    <b>Resume:</b> 
-    <a href="https://raw.githubusercontent.com/AndrewSameh30/AndrewSameh30/main/Andrew_Kamel_R%C3%A9sum%C3%A9.pdf" target="_blank" style="text-decoration: none; color: inherit;">Andrew Kamel Resume</a>
+    <b>Résumé:</b> 
+    <a href="https://raw.githubusercontent.com/AndrewSameh30/AndrewSameh30/main/Andrew_Kamel_R%C3%A9sum%C3%A9.pdf" target="_blank" style="text-decoration: none; color: inherit;">Andrew Kamel Résumé</a>
   </li>
   <li>
     <b>Email:</b> 
