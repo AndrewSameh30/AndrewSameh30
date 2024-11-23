@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" height="40px">, I'm Andrew Kamel</h1>
 <h3 align="center">Passionate and ambitious Software Engineer</h3>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/AndrewSameh30/AndrewSameh30/main/coding2.gif">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/AndrewSameh30/AndrewSameh30/main/4.gif">
 
 <h3 align="left">📖 About Me</h3>
 <p>
