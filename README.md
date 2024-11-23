@@ -12,7 +12,7 @@
 
 - ---
 
-<h3 align="left">📜 Quick Links:</h3>
+<h3 align="left">📜 Quick Links</h3>
 <ul>
   <li><b>Portfolio:</b> <a href="https://github.com/AndrewSameh30/" target="_blank">My GitHub Projects</a></li>
   <li><b>Resume:</b> <a href="https://drive.google.com/file/d/1hXCwraQK5KuF6bD0L9rhYfFaSjhfmdZC/view?usp=drive_link" target="_blank">Resume</a></li>
@@ -21,7 +21,7 @@
 
 ---
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contact me</h3>
 <p align="left">
   <a href="https://linkedin.com/in/andrewkamel485" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40" />
@@ -39,7 +39,7 @@
 
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools</h3>
 <p align="left"> 
   <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
