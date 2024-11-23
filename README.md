@@ -1,9 +1,11 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" height="40px">, I'm Andrew Kamel</h1>
-
----
-
-<h3 align="center">Passionate and ambitious Software Engineer with BSc degree in Computer Science Engineering (CSE) from the German University in Cairo (GUC)</h3>
+<h3 align="center">Passionate and ambitious Software Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/AndrewSameh30/AndrewSameh30/main/coding2.gif">
+
+<h3 align="left">About Me</h3>
+<p>
+I am a <b>Software Engineer</b> with a <b>BSc degree</b> in <b>Computer Science Engineering (CSE)</b> from the <b>German University in Cairo (GUC)</b>. My technical expertise spans a wide range of programming languages and frameworks, including <b>Java</b>, <b>Python</b>, <b>ReactJS</b>, <b>NodeJS</b>, <b>SQL</b>, and <b>Flutter</b>. I also have hands-on experience with Cloud Computing, Networks, and Machine Learning. 
+</p>
 
 <h3 align="left">📜 Quick Links</h3>
 <ul>
