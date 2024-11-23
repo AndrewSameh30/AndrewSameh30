@@ -1,5 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/AndrewSameh30/AndrewSameh30/main/linkedin_wall.png)](https://github.com/AndrewSameh30/)
-<h1 align="center">Hi 👋, I'm Andrew Kamel</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" height="40px">, I'm Andrew Kamel</h1>
 <h3 align="center">Passionate and ambitious Software Engineer with BSc degree in Computer Science Engineering (CSE) from the German University in Cairo (GUC)</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/AndrewSameh30/AndrewSameh30/main/coding2.gif">
 
