@@ -15,7 +15,7 @@ I am a <b>Software Engineer</b> with a <b>BSc degree</b> in <b>Computer Science 
   </li>
   <li>
     <b>Resume:</b> 
-    <a href="https://drive.google.com/file/d/1hXCwraQK5KuF6bD0L9rhYfFaSjhfmdZC/view?usp=drive_link" target="_blank" style="text-decoration: none; color: inherit;">Andrew Kamel Resume</a>
+    <a href="https://raw.githubusercontent.com/AndrewSameh30/AndrewSameh30/main/Andrew_Kamel_R%C3%A9sum%C3%A9.pdf" target="_blank" style="text-decoration: none; color: inherit;">Andrew Kamel Resume</a>
   </li>
   <li>
     <b>Email:</b> 
