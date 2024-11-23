@@ -9,9 +9,22 @@ I am a <b>Software Engineer</b> with a <b>BSc degree</b> in <b>Computer Science 
 
 <h3 align="left">🔗 Quick Links</h3>
 <ul>
-  <li><b>Portfolio:</b> <a href="https://github.com/AndrewSameh30/" target="_blank">My GitHub Projects</a></li>
-  <li><b>Resume:</b> <a href="https://drive.google.com/file/d/1hXCwraQK5KuF6bD0L9rhYfFaSjhfmdZC/view?usp=drive_link" target="_blank">Resume</a></li>
-  <li><b>Email:</b> <a href="mailto:andrew30.sameh@gmail.com" target="_blank">andrew30.sameh@gmail.com</a></li>
+  <li>
+    <b>LinkedIn:</b> 
+    <a href="https://www.linkedin.com/in/andrewkamel485/" target="_blank" style="text-decoration: none; color: inherit;">My LinkedIn Profile</a>
+  </li>
+  <li>
+    <b>Resume:</b> 
+    <a href="https://drive.google.com/file/d/1hXCwraQK5KuF6bD0L9rhYfFaSjhfmdZC/view?usp=drive_link" target="_blank" style="text-decoration: none; color: inherit;">Andrew Kamel Resume</a>
+  </li>
+  <li>
+    <b>Email:</b> 
+    <a href="mailto:andrew30.sameh@gmail.com" target="_blank" style="text-decoration: none; color: inherit;">andrew30.sameh@gmail.com</a>
+  </li>
+  <li>
+    <b>Phone:</b> 
+    <a href="https://wa.me/+201207790053" target="_blank" style="text-decoration: none; color: inherit;">+20 120 779 0053</a>
+  </li>
 </ul>
 
 <h3 align="left">📬 Connect With Me</h3>
