@@ -10,7 +10,7 @@
   <img src="https://raw.githubusercontent.com/AndrewSameh30/AndrewSameh30/main/18.gif" width="20" height="20" align="right" >
 </h3>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/AndrewSameh30/AndrewSameh30/main/4.gif">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/AndrewSameh30/AndrewSameh30/main/1.gif">
 
 <h3 align="left">📖 About Me</h3>
 <p>
