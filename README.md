@@ -81,6 +81,9 @@ I am a <b>Software Engineer</b> with a <b>BSc degree</b> in <b>Computer Science 
       <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
       </a>
+      <a href="https://dart.dev" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> 
+      </a>
     </td>
     <td align="center" width="50%">
       <div>Tools & IDEs</div><br/>
@@ -117,6 +120,9 @@ I am a <b>Software Engineer</b> with a <b>BSc degree</b> in <b>Computer Science 
       <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
       </a>
+      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+      </a>
     </td>
     <td align="center" width="25%">
       <div>Frameworks</div><br/>
@@ -129,9 +135,6 @@ I am a <b>Software Engineer</b> with a <b>BSc degree</b> in <b>Computer Science 
       <a href="https://expressjs.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
       </a>
-      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-      </a>
       <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
       </a>
@@ -140,6 +143,9 @@ I am a <b>Software Engineer</b> with a <b>BSc degree</b> in <b>Computer Science 
       </a>
       <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>
+      </a>
+      <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
       </a>
     </td>
   </tr>
