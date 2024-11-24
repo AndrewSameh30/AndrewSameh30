@@ -154,11 +154,12 @@ I am a <b>Software Engineer</b> with a <b>BSc degree</b> in <b>Computer Science 
 
 
 
-<p style="display: flex; justify-content: space-between; width: 80%;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=andrewsameh30&show_icons=true&locale=en&layout=compact" alt="andrewsameh30" style="flex: 1; height: 200px; object-fit: cover;" />
-  &nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=andrewsameh30&show_icons=true&locale=en" alt="andrewsameh30" style="flex: 1; height: 200px; object-fit: cover;" />
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andrewsameh30&show_icons=true&locale=en&layout=compact" alt="andrewsameh30" width="48%" height="200px"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=andrewsameh30&show_icons=true&locale=en" alt="andrewsameh30" width="48%" height="200px"/>
 </p>
+
 
 
 
