@@ -157,7 +157,7 @@ I am a <b>Software Engineer</b> with a <b>BSc degree</b> in <b>Computer Science 
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andrewsameh30&show_icons=true&locale=en&layout=compact" alt="andrewsameh30" width="48%" height="200px"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=andrewsameh30&show_icons=true&locale=en" alt="andrewsameh30" width="48%" height="200px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=andrewsameh30&show_icons=true&locale=en" alt="andrewsameh30" width="48%" height="300px"/>
 </p>
 
 
