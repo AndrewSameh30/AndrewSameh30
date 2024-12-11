@@ -84,7 +84,7 @@ I am a <b>Software Engineer</b> with a <b>BSc degree</b> in <b>Computer Science 
       </a>
     </td>
     <td align="center" width="50%">
-      <div>Tools & IDEs</div><br/>
+      <div>Tools & Platforms</div><br/>
       <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/>
       </a>
