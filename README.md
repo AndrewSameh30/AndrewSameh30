@@ -145,6 +145,9 @@ I am a <b>Software Engineer</b> with a <b>BSc degree</b> in <b>Computer Science 
       <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
       </a>
+      <a href="https://dotnet.microsoft.com/apps/aspnet" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="ASP.NET" width="40" height="40"/>
+      </a>
     </td>
   </tr>
 </table>
