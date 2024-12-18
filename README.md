@@ -1,8 +1,8 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" height="40px">, I'm Andrew Kamel</h1>
 
 <h3 align="center">
-  <img src="https://raw.githubusercontent.com/AndrewSameh30/AndrewSameh30/main/media/18.gif" width="20" height="20" align="left" >
-  <img src="https://raw.githubusercontent.com/AndrewSameh30/AndrewSameh30/main/media/21.gif" alt="Left GIF" width="20" height="20">
+  <img src="https://raw.githubusercontent.com/AndrewSameh30/AndrewSameh30/main/media/pikachu.gif" width="20" height="20" align="left" >
+  <img src="https://raw.githubusercontent.com/AndrewSameh30/AndrewSameh30/main/media/rocket.gif" alt="Left GIF" width="20" height="20">
     &nbsp;
   Software Engineer & AI Enthusiast
     &nbsp;
