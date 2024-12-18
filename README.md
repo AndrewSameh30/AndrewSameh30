@@ -6,11 +6,11 @@
     &nbsp;
   Software Engineer & AI Enthusiast
     &nbsp;
-  <img src="https://raw.githubusercontent.com/AndrewSameh30/AndrewSameh30/main/21.gif" alt="Right GIF" width="20" height="20">
-  <img src="https://raw.githubusercontent.com/AndrewSameh30/AndrewSameh30/main/18.gif" width="20" height="20" align="right" >
+  <img src="https://raw.githubusercontent.com/AndrewSameh30/AndrewSameh30/main/rocket.gif" alt="Right GIF" width="20" height="20">
+  <img src="https://raw.githubusercontent.com/AndrewSameh30/AndrewSameh30/main/pikachu.gif" width="20" height="20" align="right" >
 </h3>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/AndrewSameh30/AndrewSameh30/main/media/4.gif">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/AndrewSameh30/AndrewSameh30/main/media/lost.gif">
 
 <h3 align="left">📖 About Me</h3>
 <p>
