@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/AndrewSameh30/AndrewSameh30/main/media/pikachu.gif" width="20" height="20" align="left" >
   <img src="https://raw.githubusercontent.com/AndrewSameh30/AndrewSameh30/main/media/rocket.gif" alt="Left GIF" width="20" height="20">
     &nbsp;
-  Software Engineer & AI Enthusiast
+  Software Engineer & DevOps Enthusiast
     &nbsp;
   <img src="https://raw.githubusercontent.com/AndrewSameh30/AndrewSameh30/main/media/rocket.gif" alt="Right GIF" width="20" height="20">
   <img src="https://raw.githubusercontent.com/AndrewSameh30/AndrewSameh30/main/media/pikachu.gif" width="20" height="20" align="right" >
