@@ -14,7 +14,6 @@
 
 <h3 align="left">📖 About Me</h3>
 <p>
-I am a <b>Software Engineer</b> with a <b>BSc degree</b> in <b>Computer Science Engineering (CSE)</b> from the <b>German University in Cairo (GUC)</b>. My technical expertise spans a wide range of programming languages and frameworks, including <b>Java</b>, <b>Python</b>, <b>ReactJS</b>, <b>NodeJS</b>, <b>SQL</b>, and <b>Flutter</b>. Possess decent problem-solving skills, a collaborative mindset, and a commitment to continuous learning.
 Passionate and ambitious <b>Software Engineer</b> with a <b>BSc</b> degree in <b>Computer Science Engineering (CSE)</b> from the <b>German University in Cairo (GUC)</b>. Proficient in a variety of programming languages and frameworks including <b>Java</b>, <b>React.js</b>, <b>Node.js</b>, with hands-on experience through academic projects and internships.
 Seeking an <b>entry level role (Backend, Full stack)</b> to apply my technical skills and contribute to innovative projects.
 </p>
